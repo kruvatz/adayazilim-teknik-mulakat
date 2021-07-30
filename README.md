@@ -10,6 +10,7 @@ SehirBazliAnalizYap() : sehir bazlı analiz
 
 Örnek response:
 
+```python
 [ {'SehirAdi': 'Edirne', 'SepetAdet': 724, 'ToplamTutar': 1193425},
   {'SehirAdi': 'Van', 'SepetAdet': 664, 'ToplamTutar': 1087681},
   {'SehirAdi': 'Konya', 'SepetAdet': 398, 'ToplamTutar': 660751},
@@ -20,3 +21,4 @@ SehirBazliAnalizYap() : sehir bazlı analiz
   {'SehirAdi': 'Ankara', 'SepetAdet': 121, 'ToplamTutar': 195296},
   {'SehirAdi': 'Diyarbakır', 'SepetAdet': 98, 'ToplamTutar': 166081},
   {'SehirAdi': 'İstanbul', 'SepetAdet': 1, 'ToplamTutar': 2390}]
+```
