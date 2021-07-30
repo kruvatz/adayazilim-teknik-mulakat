@@ -1,0 +1,2 @@
+# adayazilim-teknik-mulakat
+database
